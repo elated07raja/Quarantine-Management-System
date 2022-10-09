@@ -1,8 +1,6 @@
-#include <iostream>
-#include <list>
-#include <string>
 #include <bits/stdc++.h>
-#include "testing222.cpp"
+#include "utils.cpp"
+#include "details.cpp"
 
 using namespace std;
 
