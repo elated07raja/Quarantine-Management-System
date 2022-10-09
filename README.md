@@ -32,9 +32,7 @@ If the user wants to search a patient’s details , this option can be used . Th
 **Discharge Patient by Room no. :**
 If the user wants to discharge a specific patient, this option can be used. The user will be asked for the patient’s room number. The details are found, the room being occupied by the patient is made vacant again and the status of vacant room is updated
 
-**Sorting Names Using Merge Sort :**
-
-If the user wants to sort the names of the patients , this option can be used.
+**Sorting Names Using Merge Sort :** If the user wants to sort the names of the patients , this option can be used.
 
 **Search patient Details by name (Binary Search) :**
 If the user wants to search a patient’s details , this option can be used . This allows the user to get the patient’s detail, just by entering his name.
