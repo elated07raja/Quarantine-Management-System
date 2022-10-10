@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1624968720 source:d:\c++\test_4\covid_pos.cpp
+	"Covid_pos.h"
+	"Person.h"
+	<iostream>
+	<string>
+
+1624968683 d:\c++\test_4\covid_pos.h
+	"Person.h"
+	<string>
+
+1624968720 d:\c++\test_4\person.h
+	<string>
+
+1624968720 source:d:\c++\test_4\person.cpp
+	"Person.h"
+	<iostream>
+	<string>
+
